@@ -1,2 +1,9 @@
 # oh-dear
 Game for Ludumdare 38
+
+# Fuck...
+- Theme : A Small World -> Suck...
+- I spent a whole damn day come up with idea -> 2 day left
+- Turns out -> I don't satify with game idea in mid development. (And 1/3 game implemented)
+- Fuck it -> I'm done.
+- I really give up this time..(not the same reason like my last ludumdare which is "lazy" but this time -> I try my best but still -> My art is really block...
